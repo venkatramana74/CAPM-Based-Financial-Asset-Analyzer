@@ -1,1 +1,3 @@
 # CAPM-Based-Financial-Asset-Analyzer
+
+Developed an interactive web interface for analyzing financial assets using the CAPM model, allowing users to input stock selections and assess associated risks and returns. Used Python and Excel to compute beta coefficients, expected returns, and integrated with real-time stock data for historical analysis. Employed HTML and CSS for frontend design and data presentation for an enhanced user experience.
